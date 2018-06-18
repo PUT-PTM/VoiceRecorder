@@ -11,6 +11,7 @@ Insert SD card in the SD card reader, power up the device. To start recording pr
 ## Hardware:
    | STM32F4 DISCOVERY | SD Card Reader | External Microphone | 
    | --- | --- | --- |
+   
    You will also need SD card on which you'll save the files.
    
 ## How to run:
