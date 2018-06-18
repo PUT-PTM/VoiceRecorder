@@ -20,7 +20,11 @@ Insert SD card in the SD card reader, power up the device. To start recording pr
    
   | **STM32F4 DISCOVERY** | **External Microphone** |
   | --- | --- |
-   
+
+## External libraries used:
+  | **FatFs** by ElmChan |
+  | --- |
+  
 ## Credits:
 
 [Tomasz Jóskowiak](https://github.com/TJoskowiak), [Adam Klejda](https://github.com/AdamKlejda)
